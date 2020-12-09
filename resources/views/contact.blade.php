@@ -19,7 +19,7 @@
     <div class="container">
         <div class="flex-w flex-tr">
             <div class="size-210 bor10 p-lr-70 p-t-55 p-b-70 p-lr-15-lg w-full-md">
-                <form action="" method="POST" enctype="multipart/form-data">
+                <form action="" method="" enctype="multipart/form-data">
                     <h4 class="mtext-105 cl2 txt-center p-b-30">
                         Send Us A Message
                     </h4>
@@ -59,7 +59,7 @@
                         </span>
 
                         <p class="stext-115 cl6 size-213 p-t-18">
-                            Bank Road, Goodlands, Mauritius
+                            Bank Road, Goodlands<br>Mauritius
                         </p>
                     </div>
                 </div>
@@ -75,7 +75,7 @@
                         </span>
 
                         <p class="stext-115 cl1 size-213 p-t-18">
-                            +5 737 2728
+                            (+230) 5 737 2728
                         </p>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
 
                     <div class="size-212 p-t-2">
                         <span class="mtext-110 cl2">
-                            Sale Support
+                            Email
                         </span>
 
                         <p class="stext-115 cl1 size-213 p-t-18">
@@ -105,13 +105,13 @@
                                 <i class="fa fa-facebook"></i>
                             </a>
 
-                            <a href="https://www.facebook.com/CCTV-System-Mauritius-105415541352761" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
-                                <i class="fa fa-instagram"></i>
-                            </a>
+                            <!--<a href="https://www.facebook.com/CCTV-System-Mauritius-105415541352761" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">-->
+                            <!--    <i class="fa fa-instagram"></i>-->
+                            <!--</a>-->
 
-                            <a href="https://www.facebook.com/CCTV-System-Mauritius-105415541352761" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
-                                <i class="fa fa-pinterest-p"></i>
-                            </a>
+                            <!--<a href="https://www.facebook.com/CCTV-System-Mauritius-105415541352761" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">-->
+                            <!--    <i class="fa fa-pinterest-p"></i>-->
+                            <!--</a>-->
                         </div>
 
                     </div>

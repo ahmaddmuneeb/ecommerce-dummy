@@ -6,9 +6,22 @@
 
 @section('content')
 
+<!-- Title page -->
+<section class="bg-img1 txt-center p-lr-15 p-tb-92" style="background-image: url('images/bg-01.jpg');">
+    <h2 class="ltext-105 cl0 txt-center">
+        All Products
+    </h2>
+</section>
+
 <!-- Product -->
 <div class="bg0 m-t-23 p-b-140">
     <div class="container mt-4">
+
+        <div class="p-b-10">
+			<h3 class="ltext-103 cl5">
+				Product Overview
+			</h3>
+		</div>
 
         <div class="row isotope-grid">
             <div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
@@ -29,12 +42,12 @@
                             </span>
                         </div>
 
-                        <div class="block2-txt-child2 flex-r p-t-3">
+                        {{-- <div class="block2-txt-child2 flex-r p-t-3">
                             <a href="{{ route('single-product-view1') }}" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
                                 <img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
                                 <img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
                             </a>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
@@ -56,13 +69,13 @@
                                 Rs 9800
                             </span>
                         </div>
-
+{{--
                         <div class="block2-txt-child2 flex-r p-t-3">
                             <a href="{{ route('single-product-view2') }}" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
                                 <img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
                                 <img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
                             </a>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
@@ -85,12 +98,12 @@
                             </span>
                         </div>
 
-                        <div class="block2-txt-child2 flex-r p-t-3">
+                        {{-- <div class="block2-txt-child2 flex-r p-t-3">
                             <a href="{{ route('single-product-view3') }}" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
                                 <img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
                                 <img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
                             </a>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
@@ -112,13 +125,13 @@
                                 Rs 10800
                             </span>
                         </div>
-
+{{--
                         <div class="block2-txt-child2 flex-r p-t-3">
                             <a href="{{ route('single-product-view4') }}" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
                                 <img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
                                 <img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
                             </a>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
@@ -141,12 +154,12 @@
                             </span>
                         </div>
 
-                        <div class="block2-txt-child2 flex-r p-t-3">
+                        {{-- <div class="block2-txt-child2 flex-r p-t-3">
                             <a href="{{ route('single-product-view5') }}" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
                                 <img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
                                 <img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
                             </a>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
@@ -169,12 +182,12 @@
                             </span>
                         </div>
 
-                        <div class="block2-txt-child2 flex-r p-t-3">
+                        {{-- <div class="block2-txt-child2 flex-r p-t-3">
                             <a href="{{ route('single-product-view6') }}" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
                                 <img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
                                 <img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
                             </a>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
@@ -197,12 +210,12 @@
                             </span>
                         </div>
 
-                        <div class="block2-txt-child2 flex-r p-t-3">
+                        {{-- <div class="block2-txt-child2 flex-r p-t-3">
                             <a href="{{ route('single-product-view7') }}" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
                                 <img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
                                 <img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
                             </a>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
@@ -225,12 +238,12 @@
                             </span>
                         </div>
 
-                        <div class="block2-txt-child2 flex-r p-t-3">
+                        {{-- <div class="block2-txt-child2 flex-r p-t-3">
                             <a href="{{ route('single-product-view8') }}" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
                                 <img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
                                 <img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
                             </a>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>

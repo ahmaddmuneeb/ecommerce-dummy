@@ -26,8 +26,8 @@
                     CCTV System Mauritius, as the name suggests, specialises in the distribution,  design, supply, installation and maintenance of all types of CCTV systems all around Mauritius island. We also specialise in the closely related field of Access Control and Video Entry Systems.
                     <br><br>
                     These systems are designed to suit customer’s individual requirements. As we specialise in CCTV video surveillance and Security systems, our focus is to have an in-depth understanding of the latest technologies which enables us to design systems and source products that can best meet the specific needs of our customers and the industry.<br><br>
-                    CCTV System Mauritius is a Mauritius based business that was founded on 2015 by Mr. Lowtoo Suhayl. He is an ex technician at BRINKS. He aims to satisfy the highest customer expectations through his experience, knowledge and innovation. We help customers find the right solution at the right price.<br>
-                    Free site surveys are conducted professionally and confidentially, where an experienced surveyor will listen to all requirements concentrating on any particular issues or areas of concern that there may be who will design a system to best fit the remit without any obligation.<br>
+                    CCTV System Mauritius is a Mauritius based business that was founded on 2015 by Mr. Lowtoo Suhayl. He is an ex technician at BRINKS. He aims to satisfy the highest customer expectations through his experience, knowledge and innovation. We help customers find the right solution at the right price.<br><br>
+                    Free site surveys are conducted professionally and confidentially, where an experienced surveyor will listen to all requirements concentrating on any particular issues or areas of concern that there may be who will design a system to best fit the remit without any obligation.<br><br>
                     As a matter of principal, The CCTV System Mauritius only recommends and installs the most advanced and reliable equipment available as well as employing only experienced engineers. Every system installed has the added security of a written guarantee of 1 YEAR.<br>
                     The CCTV System Mauritius also offers a maintenance service for systems not fitted by ourselves. With our 5 years experience, we guarantee satisfaction !
                 </p>
@@ -38,7 +38,7 @@
                     <b>DELIVERING CUSTOMER VALUE</b>
                 </h1>
                 <p class="mt-4 mb-4">
-                    We are differentiated in the marketplace because we focus on the creation of value for our customers. We believe value is created by providing readily customized, reliable and easily maintained video surveillance and security solutions that truly provide the intended result for our customers.<br>
+                    We are differentiated in the marketplace because we focus on the creation of value for our customers. We believe value is created by providing readily customized, reliable and easily maintained video surveillance and security solutions that truly provide the intended result for our customers.<br><br>
                     When you deal with us you are guaranteed the highest level of service, with high quality products and services that we stand behind. Our 5 years industry experience, guarantees that we have the essential knowledge, processes and systems in place to meet the most demanding requirements. We look forward to work with you to satisfy your video surveillance needs.
                 </p>
             </div>
@@ -57,7 +57,7 @@
                     <b>OUR VALUES</b>
                 </h1>
                 <p class="mt-4 mb-4">
-                    We are proud to be a company that is driven by vision and fuelled by our passion. The cores of our success are our people, and in recognition of their contribution, we restructured our corporate Values, to reflect our reinforced commitment to them. The five values at the heart of our business are:
+                    We are proud to be a company that is driven by vision and fuelled by our passion. The cores of our success are our people, and in recognition of their contribution, we restructured our corporate Values, to reflect our reinforced commitment to them. The five values at the heart of our business are:<br>
                     <br><b>Respect</b> – Be committed and always show consideration to your colleagues and customers.
                     <br><b>Innovation</b> – Be adventurous, embrace change and press the novelty button for sustainable growth.
                     <br><b>Greatness</b> – Be engaged towards achieving the extra mile and strive to nurture excellence.

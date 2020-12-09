@@ -79,11 +79,6 @@ Home
 							</h2>
 						</div>
 
-						<div class="layer-slick1 animated visible-false" data-appear="zoomIn" data-delay="1600">
-							<a href="product.html" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
-								Shop Now
-							</a>
-						</div>
 					</div>
 				</div>
 			</div>
@@ -103,11 +98,6 @@ Home
 							</h2>
 						</div>
 
-						<div class="layer-slick1 animated visible-false" data-appear="slideInUp" data-delay="1600">
-							<a href="product.html" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
-								Shop Now
-							</a>
-						</div>
 					</div>
 				</div>
 			</div>
@@ -127,11 +117,6 @@ Home
 							</h2>
 						</div>
 
-						<div class="layer-slick1 animated visible-false" data-appear="rotateIn" data-delay="1600">
-							<a href="product.html" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
-								Shop Now
-							</a>
-						</div>
 					</div>
 				</div>
 			</div>
@@ -173,12 +158,12 @@ Home
                             </span>
 						</div>
 
-						<div class="block2-txt-child2 flex-r p-t-3">
+						{{-- <div class="block2-txt-child2 flex-r p-t-3">
 							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
 								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
 								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
 							</a>
-						</div>
+						</div> --}}
 					</div>
 				</div>
 			</div>
@@ -205,12 +190,12 @@ Home
 							</span>
 						</div>
 
-						<div class="block2-txt-child2 flex-r p-t-3">
+						{{-- <div class="block2-txt-child2 flex-r p-t-3">
 							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
 								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
 								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
 							</a>
-						</div>
+						</div> --}}
 					</div>
 				</div>
 			</div>
@@ -237,12 +222,12 @@ Home
 							</span>
 						</div>
 
-						<div class="block2-txt-child2 flex-r p-t-3">
+						{{-- <div class="block2-txt-child2 flex-r p-t-3">
 							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
 								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
 								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
 							</a>
-						</div>
+						</div> --}}
 					</div>
 				</div>
 			</div>
@@ -269,12 +254,12 @@ Home
 							</span>
 						</div>
 
-						<div class="block2-txt-child2 flex-r p-t-3">
+						{{-- <div class="block2-txt-child2 flex-r p-t-3">
 							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
 								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
 								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
 							</a>
-						</div>
+						</div> --}}
 					</div>
 				</div>
 			</div>
@@ -301,12 +286,12 @@ Home
 							</span>
 						</div>
 
-						<div class="block2-txt-child2 flex-r p-t-3">
+						{{-- <div class="block2-txt-child2 flex-r p-t-3">
 							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
 								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
 								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
 							</a>
-						</div>
+						</div> --}}
 					</div>
 				</div>
 			</div>
@@ -333,12 +318,12 @@ Home
 							</span>
 						</div>
 
-						<div class="block2-txt-child2 flex-r p-t-3">
+						{{-- <div class="block2-txt-child2 flex-r p-t-3">
 							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
 								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
 								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
 							</a>
-						</div>
+						</div> --}}
 					</div>
 				</div>
 			</div>
@@ -365,12 +350,12 @@ Home
 							</span>
 						</div>
 
-						<div class="block2-txt-child2 flex-r p-t-3">
+						{{-- <div class="block2-txt-child2 flex-r p-t-3">
 							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
 								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
 								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
 							</a>
-						</div>
+						</div> --}}
 					</div>
 				</div>
 			</div>
@@ -397,12 +382,12 @@ Home
 							</span>
 						</div>
 
-						<div class="block2-txt-child2 flex-r p-t-3">
+						{{-- <div class="block2-txt-child2 flex-r p-t-3">
 							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
 								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
 								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
 							</a>
-						</div>
+						</div> --}}
 					</div>
 				</div>
             </div>
