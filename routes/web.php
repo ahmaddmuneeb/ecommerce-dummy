@@ -29,9 +29,15 @@ Route::get('/all-products', function () {
     return view('all-products');
 });
 
-Route::get('/single-product-view', function () {
-    return view('single-product-view');
-});
+Route::view('/single-product-view1', 'single-product-view1')->name('single-product-view1');
+Route::view('/single-product-view2', 'single-product-view2')->name('single-product-view2');
+Route::view('/single-product-view3', 'single-product-view3')->name('single-product-view3');
+Route::view('/single-product-view4', 'single-product-view4')->name('single-product-view4');
+Route::view('/single-product-view5', 'single-product-view5')->name('single-product-view5');
+Route::view('/single-product-view6', 'single-product-view6')->name('single-product-view6');
+Route::view('/single-product-view7', 'single-product-view7')->name('single-product-view7');
+Route::view('/single-product-view8', 'single-product-view8')->name('single-product-view8');
+
 Route::get('/cart', function () {
     return view('cart');
 });

@@ -7,7 +7,7 @@ Home
 @section('content')
 
 <!-- Cart -->
-<div class="wrap-header-cart js-panel-cart">
+{{-- <div class="wrap-header-cart js-panel-cart">
 	<div class="s-full js-hide-cart"></div>
 
 	<div class="header-cart flex-col-l p-l-65 p-r-25">
@@ -58,7 +58,7 @@ Home
 			</div>
 		</div>
 	</div>
-</div>
+</div> --}}
 
 <!-- Slider -->
 <section class="section-slide">
@@ -157,7 +157,7 @@ Home
 					<div class="block2-pic hov-img0">
 						<img src="images/p1.jpg" alt="IMG-PRODUCT">
 
-						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+						<a href="/all-products" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
 							Quick View
 						</a>
 					</div>
@@ -165,16 +165,16 @@ Home
 					<div class="block2-txt flex-w flex-t p-t-14">
 						<div class="block2-txt-child1 flex-col-l ">
 							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-							Hikvision 1MP 720p Full HD Dome CCTV Network Camera Price
+                                720P AHD 1MP Alpha Vision Brand System
 							</a>
 
 							<span class="stext-105 cl3">
-								$416.64
-							</span>
+								Rs 9000
+                            </span>
 						</div>
 
 						<div class="block2-txt-child2 flex-r p-t-3">
-							<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
+							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
 								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
 								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
 							</a>
@@ -187,9 +187,9 @@ Home
 				<!-- Block2 -->
 				<div class="block2">
 					<div class="block2-pic hov-img0">
-						<img src="images/p3.jpg" alt="IMG-PRODUCT">
+						<img src="images/p2.jpg" alt="IMG-PRODUCT">
 
-						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+						<a href="/all-products" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
 							Quick View
 						</a>
 					</div>
@@ -197,16 +197,16 @@ Home
 					<div class="block2-txt flex-w flex-t p-t-14">
 						<div class="block2-txt-child1 flex-col-l ">
 							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-							Hd Cctv Camera 2 Mp - White
+                                1080 HD 2MP Alpha Vision Brand System
 							</a>
 
 							<span class="stext-105 cl3">
-								$935.31
+								Rs 9800
 							</span>
 						</div>
 
 						<div class="block2-txt-child2 flex-r p-t-3">
-							<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
+							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
 								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
 								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
 							</a>
@@ -219,9 +219,9 @@ Home
 				<!-- Block2 -->
 				<div class="block2">
 					<div class="block2-pic hov-img0">
-						<img src="images/p6.jpg" alt="IMG-PRODUCT">
+						<img src="images/p3.jpg" alt="IMG-PRODUCT">
 
-						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+						<a href="/all-products" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
 							Quick View
 						</a>
 					</div>
@@ -229,16 +229,112 @@ Home
 					<div class="block2-txt flex-w flex-t p-t-14">
 						<div class="block2-txt-child1 flex-col-l ">
 							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-							6 Cctv Cameras Package - 720P - 1Mp - High Performance Dvr - White
+                                1080 HD 2MP Alpha Vision Brand System
 							</a>
 
 							<span class="stext-105 cl3">
-								$625.50
+								Rs 10500
 							</span>
 						</div>
 
 						<div class="block2-txt-child2 flex-r p-t-3">
-							<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
+							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
+								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
+								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
+				<!-- Block2 -->
+				<div class="block2">
+					<div class="block2-pic hov-img0">
+						<img src="images/p4.jpg" alt="IMG-PRODUCT">
+
+						<a href="/all-products" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+							Quick View
+						</a>
+					</div>
+
+					<div class="block2-txt flex-w flex-t p-t-14">
+						<div class="block2-txt-child1 flex-col-l ">
+							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
+                                720P 1MP HILOOK by HIKVISION System
+							</a>
+
+							<span class="stext-105 cl3">
+								Rs 10800
+							</span>
+						</div>
+
+						<div class="block2-txt-child2 flex-r p-t-3">
+							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
+								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
+								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
+				<!-- Block2 -->
+				<div class="block2">
+					<div class="block2-pic hov-img0">
+						<img src="images/p5.jpg" alt="IMG-PRODUCT">
+
+						<a href="/all-products" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+							Quick View
+						</a>
+					</div>
+
+					<div class="block2-txt flex-w flex-t p-t-14">
+						<div class="block2-txt-child1 flex-col-l ">
+							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
+                                720P 1MP HIKVISION System
+							</a>
+
+							<span class="stext-105 cl3">
+								RS. 11500
+							</span>
+						</div>
+
+						<div class="block2-txt-child2 flex-r p-t-3">
+							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
+								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
+								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item watches">
+				<!-- Block2 -->
+				<div class="block2">
+					<div class="block2-pic hov-img0">
+						<img src="images/p6.jpg" alt="IMG-PRODUCT">
+
+						<a href="/all-products" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+							Quick View
+						</a>
+					</div>
+
+					<div class="block2-txt flex-w flex-t p-t-14">
+						<div class="block2-txt-child1 flex-col-l ">
+							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
+                                1080P 2MP HIKVISION System
+							</a>
+
+							<span class="stext-105 cl3">
+								Rs 12800
+							</span>
+						</div>
+
+						<div class="block2-txt-child2 flex-r p-t-3">
+							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
 								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
 								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
 							</a>
@@ -253,7 +349,7 @@ Home
 					<div class="block2-pic hov-img0">
 						<img src="images/p7.jpg" alt="IMG-PRODUCT">
 
-						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+						<a href="/all-products" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
 							Quick View
 						</a>
 					</div>
@@ -261,16 +357,16 @@ Home
 					<div class="block2-txt flex-w flex-t p-t-14">
 						<div class="block2-txt-child1 flex-col-l ">
 							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-							IP CCTV camera,M-JPEG,1/4" CMOS sensor,300K pixels
+                                DVR 4 inch
 							</a>
 
 							<span class="stext-105 cl3">
-								$875.00
+								Rs 1650
 							</span>
 						</div>
 
 						<div class="block2-txt-child2 flex-r p-t-3">
-							<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
+							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
 								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
 								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
 							</a>
@@ -283,9 +379,9 @@ Home
 				<!-- Block2 -->
 				<div class="block2">
 					<div class="block2-pic hov-img0">
-						<img src="images/p9.jpg" alt="IMG-PRODUCT">
+						<img src="images/p8.jpg" alt="IMG-PRODUCT">
 
-						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
+						<a href="/all-products" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
 							Quick View
 						</a>
 					</div>
@@ -293,112 +389,16 @@ Home
 					<div class="block2-txt flex-w flex-t p-t-14">
 						<div class="block2-txt-child1 flex-col-l ">
 							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-							ARION Indoor Security Camera AR-217-130,1.3MP AHD@720, Metal
+                                Camera HIKVISION 720P
 							</a>
 
 							<span class="stext-105 cl3">
-								$734.75
+								Rs 750
 							</span>
 						</div>
 
 						<div class="block2-txt-child2 flex-r p-t-3">
-							<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item watches">
-				<!-- Block2 -->
-				<div class="block2">
-					<div class="block2-pic hov-img0">
-						<img src="images/p5.jpg" alt="IMG-PRODUCT">
-
-						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-							Quick View
-						</a>
-					</div>
-
-					<div class="block2-txt flex-w flex-t p-t-14">
-						<div class="block2-txt-child1 flex-col-l ">
-							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-							IP CCTV camera,M-JPEG,1/4" CMOS sensor,300K pixels
-							</a>
-
-							<span class="stext-105 cl3">
-								$893.20
-							</span>
-						</div>
-
-						<div class="block2-txt-child2 flex-r p-t-3">
-							<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
-				<!-- Block2 -->
-				<div class="block2">
-					<div class="block2-pic hov-img0">
-						<img src="images/p14.jpg" alt="IMG-PRODUCT">
-
-						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-							Quick View
-						</a>
-					</div>
-
-					<div class="block2-txt flex-w flex-t p-t-14">
-						<div class="block2-txt-child1 flex-col-l ">
-							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-							Hikvision 1MP 720p Full HD Dome CCTV Network Camera Price
-							</a>
-
-							<span class="stext-105 cl3">
-								$652.66
-							</span>
-						</div>
-
-						<div class="block2-txt-child2 flex-r p-t-3">
-							<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<div class="col-sm-6 col-md-4 col-lg-3 p-b-35 isotope-item women">
-				<!-- Block2 -->
-				<div class="block2">
-					<div class="block2-pic hov-img0">
-						<img src="images/p11.jpg" alt="IMG-PRODUCT">
-
-						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
-							Quick View
-						</a>
-					</div>
-
-					<div class="block2-txt flex-w flex-t p-t-14">
-						<div class="block2-txt-child1 flex-col-l ">
-							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-							IP CCTV camera,M-JPEG,1/4" CMOS sensor,300K pixels
-							</a>
-
-							<span class="stext-105 cl3">
-								$918.96
-							</span>
-						</div>
-
-						<div class="block2-txt-child2 flex-r p-t-3">
-							<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
+							<a href="/all-products" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
 								<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
 								<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
 							</a>
@@ -407,13 +407,13 @@ Home
 				</div>
             </div>
         </div>
-        <div class="row justify-content-center text-center">
+        {{-- <div class="row justify-content-center text-center">
             <div class="">
                 <a href="/all-products" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
                     load more
                 </a>
             </div>
-        </div>
+        </div> --}}
 	</div>
 </section>
 

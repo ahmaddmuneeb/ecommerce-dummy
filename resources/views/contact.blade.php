@@ -59,7 +59,7 @@
                         </span>
 
                         <p class="stext-115 cl6 size-213 p-t-18">
-                            Coza Store Center 8th floor, 379 Hudson St, New York, NY 10018 US
+                            Bank Road, Goodlands, Mauritius
                         </p>
                     </div>
                 </div>
@@ -75,7 +75,7 @@
                         </span>
 
                         <p class="stext-115 cl1 size-213 p-t-18">
-                            +1 800 1236879
+                            +5 737 2728
                         </p>
                     </div>
                 </div>
@@ -91,9 +91,31 @@
                         </span>
 
                         <p class="stext-115 cl1 size-213 p-t-18">
-                            contact@example.com
+                            cctv.system.mauritius@gmail.com
                         </p>
                     </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4"></div>
+                    <div class="col-md-4">
+
+                        <div class="p-t-27">
+                            <a href="https://www.facebook.com/CCTV-System-Mauritius-105415541352761" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+                                <i class="fa fa-facebook"></i>
+                            </a>
+
+                            <a href="https://www.facebook.com/CCTV-System-Mauritius-105415541352761" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+                                <i class="fa fa-instagram"></i>
+                            </a>
+
+                            <a href="https://www.facebook.com/CCTV-System-Mauritius-105415541352761" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+                                <i class="fa fa-pinterest-p"></i>
+                            </a>
+                        </div>
+
+                    </div>
+                    <div class="col-md-4"></div>
                 </div>
             </div>
         </div>

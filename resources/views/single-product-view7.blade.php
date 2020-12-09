@@ -26,26 +26,40 @@
             <div class="col-md-6">
                 <div>
                     <h2 class="m-4 p4">
-                        Hikvision 1MP 720p Full HD Dome CCTV Network Camera Price
+                        DVR 4ch
                     </h2>
-                    <img class="m-4 p-4 w-50" src="{{ asset('images/p2.jpg') }}" alt="erorr-loading-image">
+                    <img class="m-4 p-4 w-50" src="{{ asset('images/p7.jpg') }}" alt="erorr-loading-image">
                 </div>
             </div>
             <div class="col-md-6">
-                <h1>Hikvision 1MP 720p Full HD Dome CCTV Network Camera Price</h1>
+                <h1>DVR 4ch </h1>
                 <h3 class="mt-4">
-                    <b>200$</b>
-                    <span style="font-size: 18px; color: red;"><del>300$</del></span>
+                    <b>Rs 1650</b>
                 </h3>
                 <p class="mt-4">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident, ipsam voluptatem. Ipsam animi unde consectetur! Placeat enim cumque, accusantium perferendis recusandae illo reprehenderit facilis ducimus, voluptatum, assumenda nesciunt modi similique?
+                    <div>
+                        <b>Description:</b>
+                    </div>
+                    4 - channel H.264 AHD DVR Network;
+                    5 in 1 - 8CH (AHD + Analog + CVI + TVI + IP )
+                    DISPLAY: 9/8/4/1
+                    Audio input/output:1/1
+                    Alarm: NO
+                    OUTPUT: HDMI + VGA
+                    Support PTZ control
+                    LIVE VIEW 1080P RECORD 720P AND 960H
+                    4CH*720P, Support 1 Sata HDD.
+                    VGA/HDMI output included
+                    Price: As from Rs 1650
+                    1 Year warranty
+
                 </p>
-                <a href="/cart" class="btn btn-danger mt-4">
+                {{-- <a href="/cart" class="btn btn-danger mt-4">
                     Add to Cart
-                </a>
+                </a> --}}
             </div>
         </div>
-        <div class="row">
+        {{-- <div class="row">
             <div class="col-md-2">
                 <br>
             </div>
@@ -57,7 +71,7 @@
                 </p>
             </div>
             <div class="col-md-2"></div>
-        </div>
+        </div> --}}
     </div>
 </div>
 @endsection

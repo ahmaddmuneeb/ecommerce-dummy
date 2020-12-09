@@ -48,7 +48,7 @@
 							</li>
 
 							<li>
-								<a href="/all-products">Shop</a>
+								<a href="/all-products">Products</a>
 							</li>
 
 							<li>
@@ -61,14 +61,14 @@
 						</ul>
 					</div>
 
-					<!-- Icon header -->
+					{{-- <!-- Icon header -->
 					<div class="wrap-icon-header flex-w flex-r-m">
 
 						<div class="icon-header-item cl2 hov-cl1 trans-04 p-l-22 p-r-11 icon-header-noti js-show-cart" data-notify="1" style="color: red;">
 							<i class="zmdi zmdi-shopping-cart"></i>
                         </div>
 
-					</div>
+					</div> --}}
 				</nav>
 			</div>
 		</div>
@@ -80,14 +80,14 @@
 				<a href="index-2.html"><img src="images/icons/logo-01.png" alt="IMG-LOGO"></a>
 			</div>
 
-			<!-- Icon header -->
+			{{-- <!-- Icon header -->
 			<div class="wrap-icon-header flex-w flex-r-m m-r-15">
 
 				<div class="icon-header-item cl2 hov-cl1 trans-04 p-r-11 p-l-10 icon-header-noti js-show-cart" data-notify="1" style="color: red;">
 					<i class="zmdi zmdi-shopping-cart"></i>
 				</div>
 
-			</div>
+			</div> --}}
 
 			<!-- Button show menu -->
 			<div class="btn-show-menu-mobile hamburger hamburger--squeeze">
@@ -106,7 +106,7 @@
 				</li>
 
 				<li>
-					<a href="/all-products">Shop</a>
+					<a href="/all-products">Products</a>
 				</li>
 
 				<li>
@@ -164,19 +164,18 @@
 					</h4>
 
 					<p class="stext-107 cl7 size-201">
-						Any questions? Let us know in store at 123 floor, 456 St, Test City, 12345 or call us on (+0) 12 345 6789
-					</p>
+						Any questions? Let us know in store Bank Road, Goodlands, Mauritiusor call us on +5 737 2728
 
 					<div class="p-t-27">
-						<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+						<a href="https://www.facebook.com/CCTV-System-Mauritius-105415541352761" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
 							<i class="fa fa-facebook"></i>
 						</a>
 
-						<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+						<a href="https://www.facebook.com/CCTV-System-Mauritius-105415541352761" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
 							<i class="fa fa-instagram"></i>
 						</a>
 
-						<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+						<a href="https://www.facebook.com/CCTV-System-Mauritius-105415541352761" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
 							<i class="fa fa-pinterest-p"></i>
 						</a>
 					</div>

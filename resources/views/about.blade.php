@@ -18,66 +18,53 @@
 <section class="bg0 p-t-75 p-b-120">
     <div class="container">
         <div class="row p-b-148">
-            <div class="col-md-7 col-lg-8">
-                <div class="p-t-7 p-r-85 p-r-15-lg p-r-0-md">
-                    <h3 class="mtext-111 cl2 p-b-16">
-                        Our Story
-                    </h3>
-
-                    <p class="stext-113 cl6 p-b-26">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat consequat enim, non auctor massa ultrices non. Morbi sed odio massa. Quisque at vehicula tellus, sed tincidunt augue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas varius egestas diam, eu sodales metus scelerisque congue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas gravida justo eu arcu egestas convallis. Nullam eu erat bibendum, tempus ipsum eget, dictum enim. Donec non neque ut enim dapibus tincidunt vitae nec augue. Suspendisse potenti. Proin ut est diam. Donec condimentum euismod tortor, eget facilisis diam faucibus et. Morbi a tempor elit.
-                    </p>
-
-                    <p class="stext-113 cl6 p-b-26">
-                        Donec gravida lorem elit, quis condimentum ex semper sit amet. Fusce eget ligula magna. Aliquam aliquam imperdiet sodales. Ut fringilla turpis in vehicula vehicula. Pellentesque congue ac orci ut gravida. Aliquam erat volutpat. Donec iaculis lectus a arcu facilisis, eu sodales lectus sagittis. Etiam pellentesque, magna vel dictum rutrum, neque justo eleifend elit, vel tincidunt erat arcu ut sem. Sed rutrum, turpis ut commodo efficitur, quam velit convallis ipsum, et maximus enim ligula ac ligula.
-                    </p>
-
-                    <p class="stext-113 cl6 p-b-26">
-                        Any questions? Let us know in store at 8th floor, 379 Hudson St, New York, NY 10018 or call us on (+1) 96 716 6879
-                    </p>
-                </div>
+            <div class="col-md-12">
+                <h1 class="mt-4 mb-4">
+                    <b>OUR COMPANY</b>
+                </h1>
+                <p class="mt-4 mb-4">
+                    CCTV System Mauritius, as the name suggests, specialises in the distribution,  design, supply, installation and maintenance of all types of CCTV systems all around Mauritius island. We also specialise in the closely related field of Access Control and Video Entry Systems.
+                    <br><br>
+                    These systems are designed to suit customer’s individual requirements. As we specialise in CCTV video surveillance and Security systems, our focus is to have an in-depth understanding of the latest technologies which enables us to design systems and source products that can best meet the specific needs of our customers and the industry.<br>
+                    CCTV System Mauritius is a Mauritius based business that was founded on 2015 by Mr. Low too Suhayl. He is an ex technician at BRINKS. He aims to satisfy the highest customer expectations through his experience, knowledge and innovation. We help customers find the right solution at the right price.<br>
+                    Free site surveys are conducted professionally and confidentially, where an experienced surveyor will listen to all requirements concentrating on any particular issues or areas of concern that there may be who will design a system to best fit the remit without any obligation.<br>
+                    As a matter of principal, The CCTV System Mauritius only recommends and installs the most advanced and reliable equipment available as well as employing only experienced engineers. Every system installed has the added security of a written guarantee of 1 YEAR.<br>
+                    The CCTV System Mauritius also offers a maintenance service for systems not fitted by ourselves. With our 5 years experience, we guarantee satisfaction !
+                </p>
             </div>
 
-            <div class="col-11 col-md-5 col-lg-4 m-lr-auto">
-                <div class="how-bor1 ">
-                    <div class="hov-img0">
-                        <img src="images/about-01.jpg" alt="IMG">
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="order-md-2 col-md-7 col-lg-8 p-b-30">
-                <div class="p-t-7 p-l-85 p-l-15-lg p-l-0-md">
-                    <h3 class="mtext-111 cl2 p-b-16">
-                        Our Mission
-                    </h3>
-
-                    <p class="stext-113 cl6 p-b-26">
-                        Mauris non lacinia magna. Sed nec lobortis dolor. Vestibulum rhoncus dignissim risus, sed consectetur erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam maximus mauris sit amet odio convallis, in pharetra magna gravida. Praesent sed nunc fermentum mi molestie tempor. Morbi vitae viverra odio. Pellentesque ac velit egestas, luctus arcu non, laoreet mauris. Sed in ipsum tempor, consequat odio in, porttitor ante. Ut mauris ligula, volutpat in sodales in, porta non odio. Pellentesque tempor urna vitae mi vestibulum, nec venenatis nulla lobortis. Proin at gravida ante. Mauris auctor purus at lacus maximus euismod. Pellentesque vulputate massa ut nisl hendrerit, eget elementum libero iaculis.
-                    </p>
-
-                    <div class="bor16 p-l-29 p-b-9 m-t-22">
-                        <p class="stext-114 cl6 p-r-40 p-b-11">
-                            Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while.
-                        </p>
-
-                        <span class="stext-111 cl8">
-                            - Steve Job’s
-                        </span>
-                    </div>
-                </div>
+            <div class="col-md-12">
+                <h1 class="mt-4 mb-4">
+                    <b>DELIVERING CUSTOMER VALUE</b>
+                </h1>
+                <p class="mt-4 mb-4">
+                    We are differentiated in the marketplace because we focus on the creation of value for our customers. We believe value is created by providing readily customized, reliable and easily maintained video surveillance and security solutions that truly provide the intended result for our customers.<br>
+                    When you deal with us you are guaranteed the highest level of service, with high quality products and services that we stand behind. Our 5 years industry experience, guarantees that we have the essential knowledge, processes and systems in place to meet the most demanding requirements. We look forward to work with you to satisfy your video surveillance needs.
+                </p>
             </div>
 
-            <div class="order-md-1 col-11 col-md-5 col-lg-4 m-lr-auto p-b-30">
-                <div class="how-bor2">
-                    <div class="hov-img0">
-                        <img src="images/about-02.jpg" alt="IMG">
-                    </div>
-                </div>
+            <div class="col-md-12">
+                <h1 class="mt-4 mb-4">
+                    <b>MISSION STATEMENT</b>
+                </h1>
+                <p class="mt-4 mb-4">
+                    We aim to be the leader in the delivery of Video Surveillance and Security Solutions. Through innovation we help customers find the right solutions. The skills and dedication of our staff will ensure our success.
+                </p>
             </div>
-        </div>
+
+            <div class="col-md-12">
+                <h1 class="mt-4 mb-4">
+                    <b>OUR VALUES</b>
+                </h1>
+                <p class="mt-4 mb-4">
+                    We are proud to be a company that is driven by vision and fuelled by our passion. The cores of our success are our people, and in recognition of their contribution, we restructured our corporate Values, to reflect our reinforced commitment to them. The five values at the heart of our business are:
+                    <br><b>Respect</b> – Be committed and always show consideration to your colleagues and customers.
+                    <br><b>Innovation</b> – Be adventurous, embrace change and press the novelty button for sustainable growth.
+                    <br><b>Greatness</b> – Be engaged towards achieving the extra mile and strive to nurture excellence.
+                    <br><b>Happiness</b> – Feel and spread positivity by balancing work, health and family life.
+                    <br><b>Trust</b> – Be honest and consistent in everything you do, walk the talk and move together as ONE.
+                </p>
+            </div>
     </div>
 </section>
 
