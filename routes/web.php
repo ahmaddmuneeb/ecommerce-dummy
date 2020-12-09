@@ -18,17 +18,26 @@ Route::get('/', function () {
 });
 
 Route::get('/about', function () {
-    return view('layouts/about');
+    return view('about');
 });
 
 Route::get('/contact', function () {
-    return view('layouts/contact');
+    return view('contact');
 });
 
-Route::get('/product', function () {
-    return view('layouts/product');
+Route::get('/all-products', function () {
+    return view('all-products');
 });
 
-Route::get('/view', function () {
-    return view('layouts/view');
+Route::get('/single-product-view', function () {
+    return view('single-product-view');
+});
+Route::get('/cart', function () {
+    return view('cart');
+});
+Route::get('/checkout', function () {
+    return view('checkout');
+});
+Route::get('/thankyou', function () {
+    return view('thankyou');
 });

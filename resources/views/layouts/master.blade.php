@@ -29,33 +29,34 @@
 
 	<!-- Header -->
 	<header>
-		<!-- Header desktop -->
+
+        <!-- Header desktop -->
 		<div class="container-menu-desktop">
 			<div class="wrap-menu-desktop">
 				<nav class="limiter-menu-desktop container">
 
 					<!-- Logo desktop -->
 					<a href="#" class="logo">
-						<img src="images/icons/logo-01.png" alt="IMG-LOGO">
+						<img src="images/icons/logo-01.png" alt="logo">
 					</a>
 
 					<!-- Menu desktop -->
 					<div class="menu-desktop">
 						<ul class="main-menu">
 							<li class="active-menu">
-								<a href="#">Home</a>
+								<a href="/">Home</a>
 							</li>
 
 							<li>
-								<a href="product.html">Shop</a>
+								<a href="/all-products">Shop</a>
 							</li>
 
 							<li>
-								<a href="about.html">About</a>
+								<a href="/about">About</a>
 							</li>
 
 							<li>
-								<a href="contact.html">Contact</a>
+								<a href="/contact">Contact</a>
 							</li>
 						</ul>
 					</div>
@@ -63,7 +64,7 @@
 					<!-- Icon header -->
 					<div class="wrap-icon-header flex-w flex-r-m">
 
-						<div class="icon-header-item cl2 hov-cl1 trans-04 p-l-22 p-r-11 icon-header-noti js-show-cart" data-notify="2">
+						<div class="icon-header-item cl2 hov-cl1 trans-04 p-l-22 p-r-11 icon-header-noti js-show-cart" data-notify="1" style="color: red;">
 							<i class="zmdi zmdi-shopping-cart"></i>
                         </div>
 
@@ -82,7 +83,7 @@
 			<!-- Icon header -->
 			<div class="wrap-icon-header flex-w flex-r-m m-r-15">
 
-				<div class="icon-header-item cl2 hov-cl1 trans-04 p-r-11 p-l-10 icon-header-noti js-show-cart" data-notify="2">
+				<div class="icon-header-item cl2 hov-cl1 trans-04 p-r-11 p-l-10 icon-header-noti js-show-cart" data-notify="1" style="color: red;">
 					<i class="zmdi zmdi-shopping-cart"></i>
 				</div>
 
@@ -101,19 +102,19 @@
 		<div class="menu-mobile">
 			<ul class="main-menu-m">
 				<li>
-					<a href="index-2.html">Home</a>
+					<a href="/">Home</a>
 				</li>
 
 				<li>
-					<a href="product.html">Shop</a>
+					<a href="/all-products">Shop</a>
 				</li>
 
 				<li>
-					<a href="about.html">About</a>
+					<a href="/about">About</a>
 				</li>
 
 				<li>
-					<a href="contact.html">Contact</a>
+					<a href="/contact">Contact</a>
 				</li>
 			</ul>
 		</div>
@@ -122,7 +123,7 @@
     @yield('content')
 
 	<!-- Footer -->
-	<footer class="bg3 p-t-75 p-b-32">
+	<footer class="p-t-75 p-b-32" style="background: #000;">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6 col-lg-4 p-b-50">
@@ -163,7 +164,7 @@
 					</h4>
 
 					<p class="stext-107 cl7 size-201">
-						Any questions? Let us know in store at 8th floor, 379 Hudson St, New York, NY 10018 or call us on (+1) 96 716 6879
+						Any questions? Let us know in store at 123 floor, 456 St, Test City, 12345 or call us on (+0) 12 345 6789
 					</p>
 
 					<div class="p-t-27">
@@ -188,7 +189,7 @@
 
 					<form>
 						<div class="wrap-input1 w-full p-b-4">
-							<input class="input1 bg-none plh1 stext-107 cl7" type="text" name="email" placeholder="email@example.com">
+							<input class="input1 bg-none plh1 stext-107 cl7" type="text" name="email" placeholder="test@test.com">
 							<div class="focus-input1 trans-04"></div>
 						</div>
 
@@ -215,18 +216,10 @@
 						<img src="images/icons/icon-pay-03.png" alt="ICON-PAY">
 					</a>
 
-					<a href="#" class="m-all-1">
-						<img src="images/icons/icon-pay-04.png" alt="ICON-PAY">
-					</a>
-
-					<a href="#" class="m-all-1">
-						<img src="images/icons/icon-pay-05.png" alt="ICON-PAY">
-					</a>
 				</div>
 
 				<p class="stext-107 cl6 txt-center">
-					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-    Copyright &copy; 2020
+                    CCTV-SYSTEM, Copyright &copy; 2020
 				</p>
 			</div>
 		</div>
@@ -239,11 +232,11 @@
 		</span>
 	</div>
 
-	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
-	<script src="vendor/animsition/js/animsition.min.js"></script>
-	<script src="vendor/bootstrap/js/popper.js"></script>
-	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-	<script src="vendor/select2/select2.min.js"></script>
+	<script src="{{ asset('vendor/jquery/jquery-3.2.1.min.js') }}"></script>
+	<script src="{{ asset('vendor/animsition/js/animsition.min.js') }}"></script>
+	<script src="{{ asset('vendor/bootstrap/js/popper.js') }}"></script>
+	<script src="{{ asset('vendor/bootstrap/js/bootstrap.min.js') }}"></script>
+	<script src="{{ asset('vendor/select2/select2.min.js') }}"></script>
 	<script>
 		$(".js-select2").each(function(){
 			$(this).select2({
@@ -252,15 +245,15 @@
 			});
 		})
 	</script>
-	<script src="vendor/daterangepicker/moment.min.js"></script>
-	<script src="vendor/daterangepicker/daterangepicker.js"></script>
-	<script src="vendor/slick/slick.min.js"></script>
-	<script src="js/slick-custom.js"></script>
-	<script src="vendor/parallax100/parallax100.js"></script>
+	<script src="{{ asset('vendor/daterangepicker/moment.min.js') }}"></script>
+	<script src="{{ asset('vendor/daterangepicker/daterangepicker.js') }}"></script>
+	<script src="{{ asset('vendor/slick/slick.min.js') }}"></script>
+	<script src="{{ asset('js/slick-custom.js') }}"></script>
+	<script src="{{ asset('vendor/parallax100/parallax100.js') }}"></script>
 	<script>
         $('.parallax100').parallax100();
 	</script>
-	<script src="vendor/MagnificPopup/jquery.magnific-popup.min.js"></script>
+	<script src="{{ asset("vendor/MagnificPopup/jquery.magnific-popup.min.js") }}"></script>
 	<script>
 		$('.gallery-lb').each(function() { // the containers for all your galleries
 			$(this).magnificPopup({
@@ -273,8 +266,8 @@
 		    });
 		});
 	</script>
-	<script src="vendor/isotope/isotope.pkgd.min.js"></script>
-	<script src="vendor/sweetalert/sweetalert.min.js"></script>
+	<script src="{{ asset('vendor/isotope/isotope.pkgd.min.js') }}"></script>
+	<script src="{{ asset('vendor/sweetalert/sweetalert.min.js') }}"></script>
 	<script>
 		$('.js-addwish-b2').on('click', function(e){
 			e.preventDefault();
@@ -311,7 +304,7 @@
 		});
 
 	</script>
-	<script src="vendor/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+	<script src="{{ asset('vendor/perfect-scrollbar/perfect-scrollbar.min.js') }}"></script>
 	<script>
 		$('.js-pscroll').each(function(){
 			$(this).css('position','relative');
@@ -327,7 +320,7 @@
 			})
 		});
 	</script>
-	<script src="js/main.js"></script>
+	<script src="{{ asset('js/main.js') }}"></script>
 
 
 <script>

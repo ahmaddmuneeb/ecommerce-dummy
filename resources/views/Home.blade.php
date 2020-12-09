@@ -25,64 +25,33 @@ Home
 			<ul class="header-cart-wrapitem w-full">
 				<li class="header-cart-item flex-w flex-t m-b-12">
 					<div class="header-cart-item-img">
-						<img src="images/item-cart-01.jpg" alt="IMG">
+						<img src="{{ asset('images/p2.jpg') }}" alt="IMG">
 					</div>
 
 					<div class="header-cart-item-txt p-t-8">
 						<a href="#" class="header-cart-item-name m-b-18 hov-cl1 trans-04">
-							White Shirt Pleat
+							Hikvision 1MP 720p Full HD Dome CCTV Network Camera Price
 						</a>
 
 						<span class="header-cart-item-info">
-							1 x $19.00
+							1 x $200
 						</span>
 					</div>
 				</li>
 
-				<li class="header-cart-item flex-w flex-t m-b-12">
-					<div class="header-cart-item-img">
-						<img src="images/item-cart-02.jpg" alt="IMG">
-					</div>
-
-					<div class="header-cart-item-txt p-t-8">
-						<a href="#" class="header-cart-item-name m-b-18 hov-cl1 trans-04">
-							Converse All Star
-						</a>
-
-						<span class="header-cart-item-info">
-							1 x $39.00
-						</span>
-					</div>
-				</li>
-
-				<li class="header-cart-item flex-w flex-t m-b-12">
-					<div class="header-cart-item-img">
-						<img src="images/item-cart-03.jpg" alt="IMG">
-					</div>
-
-					<div class="header-cart-item-txt p-t-8">
-						<a href="#" class="header-cart-item-name m-b-18 hov-cl1 trans-04">
-							Nixon Porter Leather
-						</a>
-
-						<span class="header-cart-item-info">
-							1 x $17.00
-						</span>
-					</div>
-				</li>
 			</ul>
 
 			<div class="w-full">
 				<div class="header-cart-total w-full p-tb-40">
-					Total: $75.00
+					Total: $200
 				</div>
 
 				<div class="header-cart-buttons flex-w w-full">
-					<a href="shoping-cart.html" class="flex-c-m stext-101 cl0 size-107 bg3 bor2 hov-btn3 p-lr-15 trans-04 m-r-8 m-b-10">
+					<a href="/cart" class="flex-c-m stext-101 cl0 size-107 bg3 bor2 hov-btn3 p-lr-15 trans-04 m-r-8 m-b-10">
 						View Cart
 					</a>
 
-					<a href="shoping-cart.html" class="flex-c-m stext-101 cl0 size-107 bg3 bor2 hov-btn3 p-lr-15 trans-04 m-b-10">
+					<a href="/checkout" class="flex-c-m stext-101 cl0 size-107 bg3 bor2 hov-btn3 p-lr-15 trans-04 m-b-10">
 						Check Out
 					</a>
 				</div>
@@ -100,13 +69,13 @@ Home
 					<div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
 						<div class="layer-slick1 animated visible-false" data-appear="fadeInDown" data-delay="0">
 							<span class="ltext-101 cl2 respon2">
-								Women Collection 2018
+								Latest Technology
 							</span>
 						</div>
 
 						<div class="layer-slick1 animated visible-false" data-appear="fadeInUp" data-delay="800">
 							<h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1">
-								NEW SEASON
+								NEW Models
 							</h2>
 						</div>
 
@@ -124,13 +93,13 @@ Home
 					<div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
 						<div class="layer-slick1 animated visible-false" data-appear="rollIn" data-delay="0">
 							<span class="ltext-101 cl2 respon2">
-								Men New-Season
+								Latest Technology
 							</span>
 						</div>
 
 						<div class="layer-slick1 animated visible-false" data-appear="lightSpeedIn" data-delay="800">
 							<h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1">
-								Jackets & Coats
+								NEW Models
 							</h2>
 						</div>
 
@@ -147,14 +116,14 @@ Home
 				<div class="container h-full">
 					<div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
 						<div class="layer-slick1 animated visible-false" data-appear="rotateInDownLeft" data-delay="0">
-							<span class="ltext-101 cl2 respon2">
-								Men Collection 2018
+							<span class="ltext-101 cl2 respon2 text-light">
+								Latest Technology
 							</span>
 						</div>
 
 						<div class="layer-slick1 animated visible-false" data-appear="rotateInUpRight" data-delay="800">
-							<h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1">
-								New arrivals
+							<h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1 text-light">
+								NEW Models
 							</h2>
 						</div>
 
@@ -186,7 +155,7 @@ Home
 				<!-- Block2 -->
 				<div class="block2">
 					<div class="block2-pic hov-img0">
-						<img src="images/product-01.jpg" alt="IMG-PRODUCT">
+						<img src="images/p1.jpg" alt="IMG-PRODUCT">
 
 						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
 							Quick View
@@ -196,11 +165,11 @@ Home
 					<div class="block2-txt flex-w flex-t p-t-14">
 						<div class="block2-txt-child1 flex-col-l ">
 							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-								Esprit Ruffle Shirt
+							Hikvision 1MP 720p Full HD Dome CCTV Network Camera Price
 							</a>
 
 							<span class="stext-105 cl3">
-								$16.64
+								$416.64
 							</span>
 						</div>
 
@@ -218,7 +187,7 @@ Home
 				<!-- Block2 -->
 				<div class="block2">
 					<div class="block2-pic hov-img0">
-						<img src="images/product-02.jpg" alt="IMG-PRODUCT">
+						<img src="images/p3.jpg" alt="IMG-PRODUCT">
 
 						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
 							Quick View
@@ -228,11 +197,11 @@ Home
 					<div class="block2-txt flex-w flex-t p-t-14">
 						<div class="block2-txt-child1 flex-col-l ">
 							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-								Herschel supply
+							Hd Cctv Camera 2 Mp - White
 							</a>
 
 							<span class="stext-105 cl3">
-								$35.31
+								$935.31
 							</span>
 						</div>
 
@@ -250,7 +219,7 @@ Home
 				<!-- Block2 -->
 				<div class="block2">
 					<div class="block2-pic hov-img0">
-						<img src="images/product-03.jpg" alt="IMG-PRODUCT">
+						<img src="images/p6.jpg" alt="IMG-PRODUCT">
 
 						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
 							Quick View
@@ -260,11 +229,11 @@ Home
 					<div class="block2-txt flex-w flex-t p-t-14">
 						<div class="block2-txt-child1 flex-col-l ">
 							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-								Only Check Trouser
+							6 Cctv Cameras Package - 720P - 1Mp - High Performance Dvr - White
 							</a>
 
 							<span class="stext-105 cl3">
-								$25.50
+								$625.50
 							</span>
 						</div>
 
@@ -282,7 +251,7 @@ Home
 				<!-- Block2 -->
 				<div class="block2">
 					<div class="block2-pic hov-img0">
-						<img src="images/product-04.jpg" alt="IMG-PRODUCT">
+						<img src="images/p7.jpg" alt="IMG-PRODUCT">
 
 						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
 							Quick View
@@ -292,11 +261,11 @@ Home
 					<div class="block2-txt flex-w flex-t p-t-14">
 						<div class="block2-txt-child1 flex-col-l ">
 							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-								Classic Trench Coat
+							IP CCTV camera,M-JPEG,1/4" CMOS sensor,300K pixels
 							</a>
 
 							<span class="stext-105 cl3">
-								$75.00
+								$875.00
 							</span>
 						</div>
 
@@ -314,7 +283,7 @@ Home
 				<!-- Block2 -->
 				<div class="block2">
 					<div class="block2-pic hov-img0">
-						<img src="images/product-05.jpg" alt="IMG-PRODUCT">
+						<img src="images/p9.jpg" alt="IMG-PRODUCT">
 
 						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
 							Quick View
@@ -324,11 +293,11 @@ Home
 					<div class="block2-txt flex-w flex-t p-t-14">
 						<div class="block2-txt-child1 flex-col-l ">
 							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-								Front Pocket Jumper
+							ARION Indoor Security Camera AR-217-130,1.3MP AHD@720, Metal
 							</a>
 
 							<span class="stext-105 cl3">
-								$34.75
+								$734.75
 							</span>
 						</div>
 
@@ -346,7 +315,7 @@ Home
 				<!-- Block2 -->
 				<div class="block2">
 					<div class="block2-pic hov-img0">
-						<img src="images/product-06.jpg" alt="IMG-PRODUCT">
+						<img src="images/p5.jpg" alt="IMG-PRODUCT">
 
 						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
 							Quick View
@@ -356,11 +325,11 @@ Home
 					<div class="block2-txt flex-w flex-t p-t-14">
 						<div class="block2-txt-child1 flex-col-l ">
 							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-								Vintage Inspired Classic
+							IP CCTV camera,M-JPEG,1/4" CMOS sensor,300K pixels
 							</a>
 
 							<span class="stext-105 cl3">
-								$93.20
+								$893.20
 							</span>
 						</div>
 
@@ -378,7 +347,7 @@ Home
 				<!-- Block2 -->
 				<div class="block2">
 					<div class="block2-pic hov-img0">
-						<img src="images/product-07.jpg" alt="IMG-PRODUCT">
+						<img src="images/p14.jpg" alt="IMG-PRODUCT">
 
 						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
 							Quick View
@@ -388,11 +357,11 @@ Home
 					<div class="block2-txt flex-w flex-t p-t-14">
 						<div class="block2-txt-child1 flex-col-l ">
 							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-								Shirt in Stretch Cotton
+							Hikvision 1MP 720p Full HD Dome CCTV Network Camera Price
 							</a>
 
 							<span class="stext-105 cl3">
-								$52.66
+								$652.66
 							</span>
 						</div>
 
@@ -410,7 +379,7 @@ Home
 				<!-- Block2 -->
 				<div class="block2">
 					<div class="block2-pic hov-img0">
-						<img src="images/product-08.jpg" alt="IMG-PRODUCT">
+						<img src="images/p11.jpg" alt="IMG-PRODUCT">
 
 						<a href="#" class="block2-btn flex-c-m stext-103 cl2 size-102 bg0 bor2 hov-btn1 p-lr-15 trans-04 js-show-modal1">
 							Quick View
@@ -420,11 +389,11 @@ Home
 					<div class="block2-txt flex-w flex-t p-t-14">
 						<div class="block2-txt-child1 flex-col-l ">
 							<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-								Pieces Metallic Printed
+							IP CCTV camera,M-JPEG,1/4" CMOS sensor,300K pixels
 							</a>
 
 							<span class="stext-105 cl3">
-								$18.96
+								$918.96
 							</span>
 						</div>
 
@@ -436,8 +405,15 @@ Home
 						</div>
 					</div>
 				</div>
-			</div>`
-		</div>
+            </div>
+        </div>
+        <div class="row justify-content-center text-center">
+            <div class="">
+                <a href="/all-products" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
+                    load more
+                </a>
+            </div>
+        </div>
 	</div>
 </section>
 
